@@ -19,9 +19,21 @@
 
 ## Conjunto de Slides (Estrutura)
 >Introdução com o título, integrantes do grupo e professor responsável.
+
+
 >Sumário com os assuntos a serem tratados nos próximos slides.
+
+
 >Introdução aos problemas fundados.
+
+
 >Metodologia da Persona (Mapa de Empatia).
+
+
 >Identidade visual da pagina inicial do site.
+
+
 >Userflow do site.
+
+
 >Conclusão do projeto, junto a uma fonte de divulgação via WhatsApp.
