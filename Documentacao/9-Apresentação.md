@@ -2,10 +2,9 @@
 
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
+>Slide feito com a apresentação do projeto.
 
-> Conjunto de slides em um arquivo PowerPoint ou PDF
-> com a apresentação do projeto contemplando todos os
-> itens trabalhados nos demais artefatos.
+![Slide](images/Doacao_de_Sangue.pdf)
 
 ## Título do Projeto
 > Nome e marca do projeto
