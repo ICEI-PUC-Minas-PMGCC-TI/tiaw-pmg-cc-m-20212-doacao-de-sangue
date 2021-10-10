@@ -1,32 +1,18 @@
 # Introdução
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
+> O ano de 2020 fora um ano atípico para todos os países do mundo, trazendo consequências sanitárias inestimáveis, assim como sérias consequências econômicas em diversos setores. 
 >
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
+> Se antes do primeiro ano pandêmico o Brasil já não apresentava bons números em relação à doação de sangue, nesse mesmo ano as doações caíram 10%, segundo dados do Ministério da Saúde. Junto a isso, apenas **1,6%** da população brasileira doa sangue e **34%** das doações são para ajudar amigos e familiares (2019). Os números não agradam mas não é por falta de aviso. O grupo responsável por este trabalho realizou uma entrevista com mais de 50 pessoas e 59% dos entrevistados veem campanhas de doação sendo divulgadas e 64% sabem ou apresentam algum conhecimento sobre requisitos para a doação.
+>
+> Portanto, os fatos são: o país não apresenta números satisfatórios, uma parcela suficiente da população tem ciência disso, existem campanhas sendo divulgadas e mesmo assim, as doações permanecem **baixas**.
 >
 > **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> - ["As pessoas sabem que é importante doar sangue, mas não doam"](https://observatorio3setor.org.br/carrossel/as-pessoas-sabem-que-e-importante-doar-sangue-mas-nao-doam/)
+> - [Doação de Sangue cai 10% no Brasil com a pandemia](https://www.cnnbrasil.com.br/saude/doacao-de-sangue-cai-10-no-brasil-com-a-pandemia/)
 
 ## Objetivos
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> O objetivo final do trabalho é aumentar o número de doações de sangue em todo o país. No entanto, indo além, o grupo visa desenvolver uma ferramenta que conecte doadores, centros de coleta e receptores de uma maneira mais simples, rápida e menos burocrática através da Internet, visto que esta é uma rede que torna tais objetivos possíveis graças a seu alcance e sua velocidade.
 
 ## Justificativa
 
