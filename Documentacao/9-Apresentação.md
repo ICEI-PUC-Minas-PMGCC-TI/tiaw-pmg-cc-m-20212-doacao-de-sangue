@@ -2,31 +2,38 @@
 
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
+>Slide feito com a apresentação do projeto.
 
-> Conjunto de slides em um arquivo PowerPoint ou PDF
-> com a apresentação do projeto contemplando todos os
-> itens trabalhados nos demais artefatos.
+![Slide](images/Doacao_de_Sangue.pdf)
 
 ## Título do Projeto
-> Nome e marca do projeto
+> Salve Vidas!
 
-## Identidade Visual (Marca, Design)
-> O grupo deve ter o cuidado em utilizar figuras, imagens, e
-> cores dentro do contexto da solução proposta, de forma a
-> manter a temática do problema.
-> 
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
+>![Logo](images/salveVidas.png)
+
+
+## Identidade Visual 
+>Cores mais avermelhadas seguindo um padrão nos slides.
+>Apresentação de imagens de onde foi reunido as ideias do projeto (Miro).
+>Apresentação do userflow para a melhor compreensão do projeto.
 
 ## Conjunto de Slides (Estrutura)
-> O grupo deve distribuir de forma coerente o conteúdo a ser
-> apresentado, dentro do tempo determinado. Importante ressaltar
-> a importância da descrição clara de todo o andamento do projeto,
-> insumos gerados e requisitos atendidos.
-> 
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+>Introdução com o título, integrantes do grupo e professor responsável.
+
+
+>Sumário com os assuntos a serem tratados nos próximos slides.
+
+
+>Introdução aos problemas fundados.
+
+
+>Metodologia da Persona (Mapa de Empatia).
+
+
+>Identidade visual da pagina inicial do site.
+
+
+>Userflow do site.
+
+
+>Conclusão do projeto, junto a uma fonte de divulgação via WhatsApp.

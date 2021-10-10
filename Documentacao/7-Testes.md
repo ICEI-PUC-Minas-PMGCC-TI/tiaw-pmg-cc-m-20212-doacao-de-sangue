@@ -2,34 +2,20 @@
 
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
 
+> Avaliando nosso protóripo do site, concluimos que nele funcionaria o Teste da Caixa Branca, e o teste de usabilidade. 
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+![Exemplo de UserFlow](images/userflowDoacao.jpg)
 
 ## Plano de Testes
+> 1 - Teste da Caixa Branca: Avaliamos nossa estrutura de site, e concluimos que existe uma lógica a ser seguida, seguindo todo um raciocínio lógico.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+> 2 - Teste de Usabilidade: Avaliamos entre os integrantes do grupo uma possivel situação onde alguem usaria o site para para satisfazer suas necessidades,
+> e concluimos que é possivel cumprir com o desejado baseado no que foi desenvolvido.
 
-## Ferramentas de Testes (Opcional)
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Avaliação
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+> Baseado na conclusção do projeto, percebemos que a integração de uma plataforma como essa tem muito a oferecer para os doadores e centros de coleta,
+> pois ela junta todas as informações e detalhes em apenas um lugar. Entretanto, ainda se tem como dificuldade a propagação dessa ferramenta para o uso,
+> visto que muitos centros de coleta tem seus próprios sites e ferramentas. Sendo assim, a divulgação dessa ferramenta como uma melhora para os centros
+> ainda precisa ser aprofundada e melhorada para que se tenha um aumento na performace nas próximas iterações.
