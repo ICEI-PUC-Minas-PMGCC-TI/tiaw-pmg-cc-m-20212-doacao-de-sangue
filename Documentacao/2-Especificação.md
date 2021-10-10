@@ -8,27 +8,16 @@ Pré-requisitos: [Documentação de Contexto](https://github.com/ICEI-PUC-Minas-
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+> ### Doador
+> Matheus Alves tem 27 anos, é uma pessoa extrovertida e muito empática. Atualmente é professor de educação física e sua prioridade é cuidar de sua saúde. Doa sangue sempre que possível mas gostaria que o processo fosse mais simples para que pudesse doar mais vezes e perder menos tempo, pois possui uma agenda muito apertada entre as aulas que leciona. 
+
+> ### Não Doador
+> André Castro foi criado numa família classe média alta e exerce a função de Engenheiro Ambiental e atua na área de problemas ambientais. Aos 36 anos de idade seu desejo é morar fora do país pois acredita que a política pública está falida. Já se deparou algumas vezes com campanhas de incentivo à doação de sangue, conversou com conhecidos que já doaram, no entanto nunca visitou um centro de coleta para realizar uma doação.
+
+> ### Receptor
+> Ao descobrir que tem câncer de tireoide, Nicole Alves iniciou sua quimioterapia e constantemente necessita repor plaquetas e glóbulos no sangue. Tem 21 anos e sonha em tornar-se médica, profissão em que todos em sua volta conseguem imaginá-la exercendo. É uma mulher radiante mas que comumente se depara com a falta de estoques de sangue para recuperar-se de sua quimioterapia, deixando-a agoniada.
 
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
@@ -36,19 +25,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Doador  | Agendar doação de sangue de uma maneira mais simples e rápida | Doar mais vezes |
+|Não Doador | Agendar doação de sangue através de algum dispositivo com acesso à internet | Tornar-se doador |
+|Receptor  | Informar de maneira eficiente o maior número de pessoas possíveis que precisa de sangue | Viver  |
+|Centro de Coleta  | Automatizar agendamentos de doação de sangue | Atrair mais pessoas para doar sangue |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
