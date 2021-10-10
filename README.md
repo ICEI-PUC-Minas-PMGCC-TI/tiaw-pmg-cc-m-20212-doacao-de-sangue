@@ -18,4 +18,4 @@ João Carlos Oliveira Caetano.
 
 ## Instruções de utilização
 
-O usuário deverá criar seu login, em seguida, poderá ser registrado ou solicitar  sua doação de sangue, assim agendando a coleta juntamente com o centros de doação de sangue.
+O usuário deverá criar seu login, em seguida, poderá ser registrado ou solicitar  sua doação de sangue, assim agendando a coleta juntamente com os centros de doação de sangue.
