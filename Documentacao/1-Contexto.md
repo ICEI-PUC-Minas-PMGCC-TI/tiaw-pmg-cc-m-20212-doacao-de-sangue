@@ -3,7 +3,7 @@
 ## Problema
 > O ano de 2020 fora um ano atípico para todos os países do mundo, trazendo consequências sanitárias inestimáveis, assim como sérias consequências econômicas em diversos setores. 
 >
-> Se antes do primeiro ano pandêmico o Brasil já não apresentava bons números em relação à doação de sangue, nesse mesmo ano as doações caíram 10%, segundo dados do Ministério da Saúde. Junto a isso, apenas **1,6%** da população brasileira doa sangue e **34%** das doações são para ajudar amigos e familiares (2019). Os números não agradam mas não é por falta de aviso. O grupo responsável por este trabalho realizou uma entrevista com mais de 50 pessoas e 59% dos entrevistados veem campanhas de doação sendo divulgadas e 64% sabem ou apresentam algum conhecimento sobre requisitos para a doação.
+> Se antes do primeiro ano pandêmico o Brasil já não apresentava bons números em relação à doação de sangue, nesse mesmo ano as doações caíram 10%, segundo dados do Ministério da Saúde. Junto a isso, apenas **1,6%** da população brasileira doa sangue e **34%** das doações são para ajudar amigos ou familiares (2019). Os números não agradam mas não é por falta de aviso. O grupo responsável por este trabalho realizou uma entrevista com mais de 50 pessoas e 59% dos entrevistados veem campanhas de doação sendo divulgadas e 64% sabem ou apresentam algum conhecimento sobre requisitos para a doação.
 >
 > Portanto, os fatos são: o país não apresenta números satisfatórios, uma parcela suficiente da população tem ciência disso, existem campanhas sendo divulgadas e mesmo assim, as doações permanecem **baixas**.
 >
@@ -16,32 +16,15 @@
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
+> É difícil encontrar dados na Internet no que diz respeito a quantas pessoas necessitam da doação de sangue no Brasil ou a quantas pessoas morrem pela falta dela. Isso mostra o quanto o país está atrasado e não apresenta recursos suficientes para tratar o problema, gerando um terreno fértil para nossa solução.
 >
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> Sendo assim, o grupo lançou mão de um [formulário](https://docs.google.com/forms/d/e/1FAIpQLSckXgpITmKIlPd5HBuv3YHSJd5ql6veM9GdSM8RbrDljqHWnQ/viewform) em busca de compreender melhor as motivações de uma pessoa doadora e uma não doadora. Os resultados obtidos deixaram claro que o principal motivo de uma pessoa não ser doadora é a indisposição em se enfrentar todo o processo de doação. Construir uma aplicação WEB, com interfaces intuitivas e amigáveis e com facilidade de cadastro e agendamentos de coletas de sangue, é, portanto, uma alternativa coerente para a solução do problema.
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
+> Visando sobretudo aumentar o número de doadores no Brasil, o **principal alvo** da aplicação são indivíduos com ciência prévia da necessidade da doação de sangue mas que nunca doaram ou não o fazem regularmente.
 > 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+> Busca-se ainda atrair outros três perfis de usuários:
+> - Doadores regulares: indivíduos que doam sangue regularmente, que buscam uma maneira mais simples e rápida de realizar suas doações;
+> - Receptores: indivíduos que necessitam da doação de sangue e buscam uma ferramenta que aumente tanto seu alcance como a velocidade em que conseguem a doação;
+> - Centros de coleta: instituições que realizam a coleta de sangue e buscam um serviço capaz de automatizar o agendamento de coletas, de notificar os tipos sanguíneos que mais precisam e de centralizar um local onde possam ser encontradas.
