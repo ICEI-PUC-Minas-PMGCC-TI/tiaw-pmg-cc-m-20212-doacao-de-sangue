@@ -1,36 +1,41 @@
-
 # Projeto de Interface
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
-
-> Apresente as principais a interface da plataforma. Discuta como ela
-> foi elaborada de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](2-Especificação.md).
 
 ## User Flow
 
 ![Exemplo de UserFlow](images/userflow.jpg)
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
+> Como podemos ver o usuário tem uma passagem clara até o agendamento de sua coleta, o mesmo se equivala para centros ainda não disponíveis em nosso cadastro, dão acesso geral a banco disponível de sangue, agendamento de usuários e horários de funcionamento.
 >
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
+> **Protótipo**:
+> - [User Flow - Completo como um protótipo](https://www.figma.com/proto/4ffq1mb2qRNtL5FlDXU6kJ/Prot%C3%B3tipo-Doa%C3%A7%C3%A3o-Sangue?node-id=64%3A342&scaling=min-zoom&page-id=64%3A341&starting-point-node-id=64%3A342)
 
 
 ## Wireframes
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+<br>
 
-> São protótipos usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante do
-> layout de elementos fundamentais na interface.
+![](images/home.png)
+
+![](images/login.png)
+
+![](images/Cadastro.png)
+
+![](images/Perfildousuario.png)
+
+![](images/Perfildocentro.png)
+
+![](images/Informacaodocentro.png)
+
+![](images/Agendacoleta.png)
+
+![](images/Centros.png)
+
+![](images/SobreNos.png)
+
+<br>
+
+> Todas as wireframes usadas para produzir o protótipo.
 > 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+> **Wireframes/Ferramenta**:
+> - [Ferramenta Utilizada: Figma](https://www.figma.com)
+> - [Wireframes Completos no Figma](https://www.figma.com/file/4ffq1mb2qRNtL5FlDXU6kJ/Protótipo-Doação-Sangue?node-id=0%3A1)
