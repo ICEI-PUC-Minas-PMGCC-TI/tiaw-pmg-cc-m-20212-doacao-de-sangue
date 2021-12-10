@@ -14,7 +14,7 @@ function montaHeader() {
     }
     else {
         menuNavegacao.innerHTML += `
-            <a href="#" class="menu-link">Registre-se para doar sangue</a>
+            <a href="page_cadastroUsuarioPessoa.html" class="menu-link">Registre-se para doar sangue</a>
             <a href="pageLogin.html" class="menu-link">Entrar</a>
         `
     }
