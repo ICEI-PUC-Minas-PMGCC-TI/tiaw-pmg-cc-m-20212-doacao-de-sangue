@@ -8,8 +8,6 @@
 * Bernardo Souza Cardoso
 * Daniel da Silveira Moreira
 * Leonardo Barbosa Brandão
-* Thiago Cedro Silva de Souza
-* Victor da Rocha
 
 ## Professores responsáveis
 
