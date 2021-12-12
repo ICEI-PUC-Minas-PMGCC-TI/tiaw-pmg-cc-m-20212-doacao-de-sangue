@@ -108,6 +108,7 @@ function confereDados (dados) {
 function proximoIdUsuarioPessoa() {
     let objDados = leDados();
     let array_usuarioPessoa = objDados.usuarioPessoa;
+    console.log(objDados, array_usuarioPessoa);
 
     return (parseInt(array_usuarioPessoa[array_usuarioPessoa.length-1].idUsuarioPessoa, 10)+1);
 }

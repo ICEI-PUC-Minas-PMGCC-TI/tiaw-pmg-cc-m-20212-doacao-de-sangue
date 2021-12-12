@@ -61,8 +61,6 @@ function selectCentro(nomeCentro){
                 }
             ]
         }
-        
-        salvaDados(objDados);
     }
 
     else if(nomeCentro == "Hemonucleo Taubate"){
@@ -124,7 +122,6 @@ function selectCentro(nomeCentro){
             ]
         }
         
-        salvaDados(objDados);
     }
 }
 
