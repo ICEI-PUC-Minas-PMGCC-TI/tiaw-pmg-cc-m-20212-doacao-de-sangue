@@ -13,6 +13,7 @@
 
 Rommel Vieira Carneiro.
 João Carlos Oliveira Caetano.
+Fatima de Lima Procopio Duarte.
 
 ## Instruções de utilização
 
